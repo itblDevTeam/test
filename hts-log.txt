@@ -1,0 +1,39 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 18 Nov 2020 16:53:37 at http://itbanglaapp2020.herokuapp.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://itbanglaapp2020.herokuapp.com/ -O1 "C:\Users\ITBL\Music\test" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:00:43	Error: 	"Not Found" (404) at link itbanglaapp2020.herokuapp.com/Business_focus.html (from itbanglaapp2020.herokuapp.com/)
+17:00:43	Error: 	"Not Found" (404) at link itbanglaapp2020.herokuapp.com/Certificate_awards.html (from itbanglaapp2020.herokuapp.com/)
+17:00:43	Warning: 	Retry after error 500 (Internal Server Error) at link itbanglaapp2020.herokuapp.com/directors.html (from itbanglaapp2020.herokuapp.com/)
+17:00:46	Error: 	"Not Found" (404) at link itbanglaapp2020.herokuapp.com/Industrial_training.html (from itbanglaapp2020.herokuapp.com/)
+17:00:46	Error: 	"Not Found" (404) at link itbanglaapp2020.herokuapp.com/JavaSE8.html (from itbanglaapp2020.herokuapp.com/)
+17:00:46	Error: 	"Not Found" (404) at link itbanglaapp2020.herokuapp.com/aspnet.html (from itbanglaapp2020.herokuapp.com/)
+17:00:46	Error: 	"Not Found" (404) at link itbanglaapp2020.herokuapp.com/RHCSS.html (from itbanglaapp2020.herokuapp.com/)
+17:00:46	Error: 	"Not Found" (404) at link itbanglaapp2020.herokuapp.com/ceh.html (from itbanglaapp2020.herokuapp.com/)
+17:00:46	Error: 	"Not Found" (404) at link itbanglaapp2020.herokuapp.com/PearsonVUE.html (from itbanglaapp2020.herokuapp.com/)
+17:00:46	Error: 	"Not Found" (404) at link itbanglaapp2020.herokuapp.com/GMAT.html (from itbanglaapp2020.herokuapp.com/)
+17:00:46	Error: 	"Not Found" (404) at link itbanglaapp2020.herokuapp.com/Toefl.html (from itbanglaapp2020.herokuapp.com/)
+17:00:46	Error: 	"Not Found" (404) at link itbanglaapp2020.herokuapp.com/bcat.html (from itbanglaapp2020.herokuapp.com/)
+17:00:46	Error: 	"Not Found" (404) at link itbanglaapp2020.herokuapp.com/ams.html (from itbanglaapp2020.herokuapp.com/)
+17:00:46	Error: 	"Not Found" (404) at link itbanglaapp2020.herokuapp.com/acms.html (from itbanglaapp2020.herokuapp.com/)
+17:00:46	Error: 	"Not Found" (404) at link itbanglaapp2020.herokuapp.com/ims.html (from itbanglaapp2020.herokuapp.com/)
+17:00:47	Error: 	"Not Found" (404) at link itbanglaapp2020.herokuapp.com/cdcp.html (from itbanglaapp2020.herokuapp.com/)
+17:00:47	Error: 	"Not Found" (404) at link itbanglaapp2020.herokuapp.com/Usajob.html (from itbanglaapp2020.herokuapp.com/)
+17:00:47	Error: 	"Not Found" (404) at link itbanglaapp2020.herokuapp.com/single.html (from itbanglaapp2020.herokuapp.com/)
+17:00:47	Error: 	"Not Found" (404) at link itbanglaapp2020.herokuapp.com/index.html (from itbanglaapp2020.herokuapp.com/)
+17:00:47	Error: 	"Not Found" (404) at link itbanglaapp2020.herokuapp.com/static/images/g4.jpg (from itbanglaapp2020.herokuapp.com/)
+17:00:47	Error: 	"Not Found" (404) at link itbanglaapp2020.herokuapp.com/static/images/a44.jpg (from itbanglaapp2020.herokuapp.com/)
+17:00:47	Error: 	"Not Found" (404) at link itbanglaapp2020.herokuapp.com/static/images/a22.jpg (from itbanglaapp2020.herokuapp.com/)
+17:00:47	Error: 	"Not Found" (404) at link itbanglaapp2020.herokuapp.com/static/images/a33.jpg (from itbanglaapp2020.herokuapp.com/)
+17:00:47	Error: 	"Not Found" (404) at link itbanglaapp2020.herokuapp.com/single-post.html (from itbanglaapp2020.herokuapp.com/)
+17:02:07	Error: 	"Not Found" (404) at link itbanglaapp2020.herokuapp.com/ta.html (from itbanglaapp2020.herokuapp.com/)
+17:02:08	Error: 	"Not Found" (404) at link itbanglaapp2020.herokuapp.com/static/assets/fonts/themify-icons/fonts/themify.eot?-fvbane (from itbanglaapp2020.herokuapp.com/static/assets/fonts/themify-icons.css)
+17:25:30	Warning: 	Retry after error 500 (Internal Server Error) at link itbanglaapp2020.herokuapp.com/directors.html (from itbanglaapp2020.herokuapp.com/)
+17:25:32	Error: 	"Internal Server Error" (500) after 2 retries at link itbanglaapp2020.herokuapp.com/directors.html (from itbanglaapp2020.herokuapp.com/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 31 minutes 55 seconds : 120 links scanned, 91 files written (48127830 bytes overall) [48622529 bytes received at 25390 bytes/sec], 4.2 requests per connection
+(26 errors, 2 warnings, 0 messages)
